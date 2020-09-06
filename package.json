@@ -1,0 +1,28 @@
+{
+  "name": "react-native-scrollview-maintain",
+  "version": "0.0.3",
+  "description": "Module for android maintainVisibleContentPosition woraround.",
+  "main": "index",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "android/src/main/AndroidManifest.xml",
+    "android/src/main/java/",
+    "android/build.gradle",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axinvd/react-native-scrollview-maintain.git"
+  },
+  "author": {
+    "email": "axinvd@gmail.com",
+    "name": "Alexandrov Ivan"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": ">=60"
+  }
+}
